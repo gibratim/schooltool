@@ -1,0 +1,20 @@
+C:\Users\ernest\Documents\Visual Studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.EF\bin\Debug\SchoolManagementApp.EF.dll.config
+C:\Users\ernest\Documents\Visual Studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.EF\bin\Debug\SchoolManagementApp.EF.dll
+C:\Users\ernest\Documents\Visual Studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.EF\bin\Debug\SchoolManagementApp.EF.pdb
+C:\Users\ernest\Documents\Visual Studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.EF\bin\Debug\EntityFramework.dll
+C:\Users\ernest\Documents\Visual Studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ernest\Documents\Visual Studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.EF\bin\Debug\EntityFramework.xml
+C:\Users\ernest\Documents\Visual Studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ernest\Documents\Visual Studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.EF\obj\Debug\SchoolManagementApp.EF.csprojResolveAssemblyReference.cache
+C:\Users\ernest\Documents\Visual Studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.EF\obj\Debug\SchoolManagementApp.EF.dll
+C:\Users\ernest\Documents\Visual Studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.EF\obj\Debug\SchoolManagementApp.EF.pdb
+\\ERNESTK\Users\Public\SchoolManagementApp\SchoolManagementApp.EF\bin\Debug\SchoolManagementApp.EF.dll.config
+\\ERNESTK\Users\Public\SchoolManagementApp\SchoolManagementApp.EF\bin\Debug\SchoolManagementApp.EF.dll
+\\ERNESTK\Users\Public\SchoolManagementApp\SchoolManagementApp.EF\bin\Debug\SchoolManagementApp.EF.pdb
+\\ERNESTK\Users\Public\SchoolManagementApp\SchoolManagementApp.EF\bin\Debug\EntityFramework.dll
+\\ERNESTK\Users\Public\SchoolManagementApp\SchoolManagementApp.EF\bin\Debug\EntityFramework.SqlServer.dll
+\\ERNESTK\Users\Public\SchoolManagementApp\SchoolManagementApp.EF\bin\Debug\EntityFramework.xml
+\\ERNESTK\Users\Public\SchoolManagementApp\SchoolManagementApp.EF\bin\Debug\EntityFramework.SqlServer.xml
+\\ERNESTK\Users\Public\SchoolManagementApp\SchoolManagementApp.EF\obj\Debug\SchoolManagementApp.EF.csprojResolveAssemblyReference.cache
+\\ERNESTK\Users\Public\SchoolManagementApp\SchoolManagementApp.EF\obj\Debug\SchoolManagementApp.EF.dll
+\\ERNESTK\Users\Public\SchoolManagementApp\SchoolManagementApp.EF\obj\Debug\SchoolManagementApp.EF.pdb

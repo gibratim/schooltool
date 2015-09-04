@@ -1,0 +1,1 @@
+C:\Users\ernest\Documents\Visual Studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.DAL\obj\Debug\SchoolManagementApp.DAL.csprojResolveAssemblyReference.cache

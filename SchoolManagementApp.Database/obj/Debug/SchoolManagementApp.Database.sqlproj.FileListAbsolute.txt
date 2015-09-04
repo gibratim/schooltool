@@ -1,0 +1,9 @@
+c:\users\ernest\documents\visual studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.Database\bin\Debug\SchoolManagementApp.Database.dacpac
+c:\users\ernest\documents\visual studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.Database\bin\Debug\SchoolManagementApp.Database.dll
+c:\users\ernest\documents\visual studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.Database\bin\Debug\SchoolManagementApp.Database.pdb
+c:\users\ernest\documents\visual studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.Database\obj\Debug\Model.xml
+c:\users\ernest\documents\visual studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.Database\obj\Debug\refactor.xml
+c:\users\ernest\documents\visual studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.Database\obj\Debug\postdeploy.sql
+c:\users\ernest\documents\visual studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.Database\obj\Debug\predeploy.sql
+c:\users\ernest\documents\visual studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.Database\obj\Debug\SchoolManagementApp.Database.dll
+c:\users\ernest\documents\visual studio 2013\Projects\SchoolManagementApp\SchoolManagementApp.Database\obj\Debug\SchoolManagementApp.Database.pdb

@@ -1,0 +1,2 @@
+c:\users\ernest\documents\visual studio 2013\Projects\SchoolManagementApp\SchoolManagementApp\bin\Debug\SchoolManagementApp.exe.config
+\\ERNESTK\Users\Public\SchoolManagementApp\SchoolManagementApp\bin\Debug\SchoolManagementApp.exe.config
